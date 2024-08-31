@@ -1,9 +1,6 @@
-pick mulberries off ground
-pick damsons and freeze
-do 10,0000 steps
-do 250 steps per hour
-read kindle
-listen to audible
-do python course
+sleep
+rest peacefully
+finish eating
+Add fishing
 create amazon order
-mow lawn
+walk tall
