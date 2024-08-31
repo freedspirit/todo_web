@@ -1,0 +1,9 @@
+pick mulberries off ground
+pick damsons and freeze
+do 10,0000 steps
+do 250 steps per hour
+read kindle
+listen to audible
+do python course
+create amazon order
+mow lawn
