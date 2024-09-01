@@ -15,7 +15,6 @@ def add_todo():
     st.session_state["new_todo"] = ""
 
 st.title('Keep track of tasks')
-#st.subheader('Add tasks in box below.')
 st.write('Click on box to remove task')
 
 for index, todo in enumerate(todos):
@@ -28,5 +27,3 @@ for index, todo in enumerate(todos):
 
 st.text_input(label=' ', placeholder='Add new todo - repeats will be ignored: ',
               on_change=add_todo, key='new_todo')
-
-# st.session_state
